@@ -1,6 +1,6 @@
 <?php
     require_once ("Database.php");
-    
+    //primeira tentativa nao consegui
     class dbempregado{
 
 
